@@ -946,6 +946,33 @@
       "fee": "£1M"
     }
   ],
+  "529": [
+    {
+      "name": "Bisiwu",
+      "dir": "in",
+      "fee": "£7.3M"
+    },
+    {
+      "name": "Adeyemi",
+      "dir": "in",
+      "fee": "£18.9M"
+    },
+    {
+      "name": "Gordon",
+      "dir": "in",
+      "fee": "£69M"
+    },
+    {
+      "name": "Pena",
+      "dir": "out",
+      "fee": "£2.6M"
+    },
+    {
+      "name": "Fati",
+      "dir": "out",
+      "fee": "£9.4M"
+    }
+  ],
   "530": [
     {
       "name": "Kang-in Lee",
@@ -960,6 +987,43 @@
       "fee": "£0.86M"
     }
   ],
+  "541": [
+    {
+      "name": "Espi",
+      "dir": "in",
+      "fee": "£21.4M"
+    },
+    {
+      "name": "Dumfries",
+      "dir": "in",
+      "fee": "£17.1M"
+    },
+    {
+      "name": "Cucurella",
+      "dir": "in",
+      "fee": "£51.8M"
+    },
+    {
+      "name": "Diomande",
+      "dir": "in",
+      "fee": "£120M"
+    },
+    {
+      "name": "Palacios",
+      "dir": "out",
+      "fee": "£8.6M"
+    },
+    {
+      "name": "Garcia",
+      "dir": "out",
+      "fee": "£34M"
+    },
+    {
+      "name": "Fran Garcia",
+      "dir": "out",
+      "fee": "£3.4M"
+    }
+  ],
   "542": [
     {
       "name": "Gragera",
@@ -972,6 +1036,11 @@
       "name": "Bernal",
       "dir": "in",
       "fee": "£11M"
+    },
+    {
+      "name": "Fran Garcia",
+      "dir": "in",
+      "fee": "£3.4M"
     }
   ],
   "727": [
