@@ -51,6 +51,92 @@
       "fee": "£22M"
     }
   ],
+  "34": [
+    {
+      "name": "Hornicek",
+      "dir": "in",
+      "fee": "£26.3M"
+    },
+    {
+      "name": "Bamba",
+      "dir": "in",
+      "fee": "£30.5M"
+    },
+    {
+      "name": "Steur",
+      "dir": "in",
+      "fee": "£20.2M"
+    },
+    {
+      "name": "Toure",
+      "dir": "in",
+      "fee": "£43M"
+    },
+    {
+      "name": "Jaouen",
+      "dir": "in",
+      "fee": "£18.5M"
+    },
+    {
+      "name": "Isak",
+      "dir": "out",
+      "fee": "£125M"
+    },
+    {
+      "name": "Tonali",
+      "dir": "out",
+      "fee": "£92.9M"
+    },
+    {
+      "name": "Gordon",
+      "dir": "out",
+      "fee": "£68.8M"
+    }
+  ],
+  "35": [
+    {
+      "name": "Sanchez",
+      "dir": "in",
+      "fee": "£9.5M"
+    },
+    {
+      "name": "Silva",
+      "dir": "in",
+      "fee": "£21.5M"
+    },
+    {
+      "name": "Rodriguez",
+      "dir": "in",
+      "fee": "£21.5M"
+    },
+    {
+      "name": "Sinisterra",
+      "dir": "out",
+      "fee": "£3.2M"
+    }
+  ],
+  "36": [
+    {
+      "name": "Palacios",
+      "dir": "in",
+      "fee": "£8.6M"
+    },
+    {
+      "name": "Garcia",
+      "dir": "in",
+      "fee": "£34.4M"
+    },
+    {
+      "name": "Kusi-Asare",
+      "dir": "in",
+      "fee": "£5.2M"
+    },
+    {
+      "name": "Diop",
+      "dir": "out",
+      "fee": "£8.6M"
+    }
+  ],
   "40": [
     {
       "name": "Wirtz",
@@ -131,6 +217,11 @@
       "name": "Nunez",
       "dir": "out",
       "fee": "£46M"
+    },
+    {
+      "name": "Isak",
+      "dir": "in",
+      "fee": "£125M"
     }
   ],
   "42": [
@@ -208,6 +299,28 @@
       "name": "Hein",
       "dir": "out",
       "fee": "£2.6M"
+    },
+    {
+      "name": "Nørgaard",
+      "dir": "out",
+      "fee": "£7.1M"
+    }
+  ],
+  "45": [
+    {
+      "name": "George",
+      "dir": "in",
+      "fee": "£18.1M"
+    },
+    {
+      "name": "Hackney",
+      "dir": "in",
+      "fee": "£16.6M"
+    },
+    {
+      "name": "Nørgaard",
+      "dir": "in",
+      "fee": "£7.1M"
     }
   ],
   "47": [
@@ -389,6 +502,153 @@
       "name": "Ake",
       "dir": "out",
       "fee": "£7M"
+    }
+  ],
+  "51": [
+    {
+      "name": "Vuskovic",
+      "dir": "in",
+      "fee": "£46.4M"
+    },
+    {
+      "name": "Svoboda",
+      "dir": "in",
+      "fee": "£4.3M"
+    },
+    {
+      "name": "Rego",
+      "dir": "in",
+      "fee": "£3M"
+    },
+    {
+      "name": "Struijk",
+      "dir": "in",
+      "fee": "£20M"
+    },
+    {
+      "name": "Costinha",
+      "dir": "in",
+      "fee": "£10.9M"
+    },
+    {
+      "name": "Yohanna",
+      "dir": "in",
+      "fee": "£24.1M"
+    },
+    {
+      "name": "Rushworth",
+      "dir": "out",
+      "fee": "£22.1M"
+    },
+    {
+      "name": "Welbeck",
+      "dir": "out",
+      "fee": "£5M"
+    },
+    {
+      "name": "Coppola",
+      "dir": "out",
+      "fee": "£15.1M"
+    },
+    {
+      "name": "van Hecke",
+      "dir": "out",
+      "fee": "£51.6M"
+    },
+    {
+      "name": "Sarmiento",
+      "dir": "out",
+      "fee": "£3.2M"
+    }
+  ],
+  "52": [
+    {
+      "name": "Lacroix",
+      "dir": "out",
+      "fee": "£52.2M"
+    },
+    {
+      "name": "Imray",
+      "dir": "out",
+      "fee": "£5M"
+    }
+  ],
+  "55": [
+    {
+      "name": "Sangare",
+      "dir": "in",
+      "fee": "£41.3M"
+    },
+    {
+      "name": "Anthony",
+      "dir": "in",
+      "fee": "£15.1M"
+    },
+    {
+      "name": "Onyeka",
+      "dir": "out",
+      "fee": "£6M"
+    }
+  ],
+  "63": [
+    {
+      "name": "Muharemovic",
+      "dir": "in",
+      "fee": "£31.8M"
+    },
+    {
+      "name": "Struijk",
+      "dir": "out",
+      "fee": "£20M"
+    }
+  ],
+  "65": [
+    {
+      "name": "Sa",
+      "dir": "in",
+      "fee": "£17.2M"
+    },
+    {
+      "name": "Anderson",
+      "dir": "out",
+      "fee": "£116.1M"
+    },
+    {
+      "name": "Carmo",
+      "dir": "out",
+      "fee": "£7.7M"
+    }
+  ],
+  "66": [
+    {
+      "name": "Gomes",
+      "dir": "in",
+      "fee": "£34.4M"
+    },
+    {
+      "name": "Manzambi",
+      "dir": "in",
+      "fee": "£51.6M"
+    },
+    {
+      "name": "Rogers",
+      "dir": "out",
+      "fee": "£118.7M"
+    },
+    {
+      "name": "Dobbin",
+      "dir": "out",
+      "fee": "£9M"
+    },
+    {
+      "name": "Tielemans",
+      "dir": "out",
+      "fee": "£35.3M"
+    },
+    {
+      "name": "Barrenechea",
+      "dir": "out",
+      "fee": "£10.3M"
     }
   ]
 }
