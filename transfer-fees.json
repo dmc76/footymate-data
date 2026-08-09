@@ -934,6 +934,18 @@
       "fee": "£3.5M"
     }
   ],
+  "81": [
+    {
+      "name": "Medina",
+      "dir": "in",
+      "fee": "£18M"
+    },
+    {
+      "name": "Weah",
+      "dir": "in",
+      "fee": "£12.4M"
+    }
+  ],
   "85": [
     {
       "name": "Kamara",
@@ -946,6 +958,13 @@
       "name": "Abline",
       "dir": "in",
       "fee": "£21.5M"
+    }
+  ],
+  "116": [
+    {
+      "name": "Medina",
+      "dir": "out",
+      "fee": "£18M"
     }
   ],
   "247": [
@@ -991,6 +1010,11 @@
       "name": "Alajbegovic",
       "dir": "in",
       "fee": "£30M"
+    },
+    {
+      "name": "Weah",
+      "dir": "out",
+      "fee": "£12.4M"
     }
   ],
   "497": [
