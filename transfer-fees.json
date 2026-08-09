@@ -49,6 +49,11 @@
       "name": "Antony",
       "dir": "out",
       "fee": "£22M"
+    },
+    {
+      "name": "Hojlund",
+      "dir": "out",
+      "fee": "£43M"
     }
   ],
   "34": [
@@ -944,6 +949,13 @@
       "name": "McCrorie",
       "dir": "in",
       "fee": "£1M"
+    }
+  ],
+  "492": [
+    {
+      "name": "Hojlund",
+      "dir": "in",
+      "fee": "£43M"
     }
   ],
   "496": [
