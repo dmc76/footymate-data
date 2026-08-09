@@ -951,6 +951,13 @@
       "fee": "£1M"
     }
   ],
+  "489": [
+    {
+      "name": "Morata",
+      "dir": "out",
+      "fee": "£12M"
+    }
+  ],
   "492": [
     {
       "name": "Hojlund",
@@ -970,6 +977,18 @@
       "name": "Koulierakis",
       "dir": "in",
       "fee": "£12.9M"
+    },
+    {
+      "name": "Castro",
+      "dir": "in",
+      "fee": "£30M"
+    }
+  ],
+  "500": [
+    {
+      "name": "Castro",
+      "dir": "out",
+      "fee": "£30M"
     }
   ],
   "529": [
