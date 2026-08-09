@@ -1,0 +1,394 @@
+{
+  "33": [
+    {
+      "name": "Leon",
+      "dir": "in",
+      "fee": "£3M"
+    },
+    {
+      "name": "Cunha",
+      "dir": "in",
+      "fee": "£62.5M"
+    },
+    {
+      "name": "Emsden-James",
+      "dir": "in",
+      "fee": "£1M"
+    },
+    {
+      "name": "Mbeumo",
+      "dir": "in",
+      "fee": "£71M"
+    },
+    {
+      "name": "Sesko",
+      "dir": "in",
+      "fee": "£73.7M"
+    },
+    {
+      "name": "Lammens",
+      "dir": "in",
+      "fee": "£18M"
+    },
+    {
+      "name": "Tielemans",
+      "dir": "in",
+      "fee": "£35.3M"
+    },
+    {
+      "name": "Santos",
+      "dir": "in",
+      "fee": "£48.4M"
+    },
+    {
+      "name": "Garnacho",
+      "dir": "out",
+      "fee": "£40M"
+    },
+    {
+      "name": "Antony",
+      "dir": "out",
+      "fee": "£22M"
+    }
+  ],
+  "40": [
+    {
+      "name": "Wirtz",
+      "dir": "in",
+      "fee": "£116M"
+    },
+    {
+      "name": "Ekitike",
+      "dir": "in",
+      "fee": "£79M"
+    },
+    {
+      "name": "Kerkez",
+      "dir": "in",
+      "fee": "£40M"
+    },
+    {
+      "name": "Frimpong",
+      "dir": "in",
+      "fee": "£30M"
+    },
+    {
+      "name": "Mamardashvili",
+      "dir": "in",
+      "fee": "£29M"
+    },
+    {
+      "name": "Leoni",
+      "dir": "in",
+      "fee": "£26M"
+    },
+    {
+      "name": "Pecsi",
+      "dir": "in",
+      "fee": "£1.5M"
+    },
+    {
+      "name": "Ndiaye",
+      "dir": "in",
+      "fee": "£1M"
+    },
+    {
+      "name": "Munoz",
+      "dir": "in",
+      "fee": "£34.4M"
+    },
+    {
+      "name": "Alexander-Arnold",
+      "dir": "out",
+      "fee": "£8M"
+    },
+    {
+      "name": "Kelleher",
+      "dir": "out",
+      "fee": "£18M"
+    },
+    {
+      "name": "Phillips",
+      "dir": "out",
+      "fee": "£3M"
+    },
+    {
+      "name": "Quansah",
+      "dir": "out",
+      "fee": "£34M"
+    },
+    {
+      "name": "Diaz",
+      "dir": "out",
+      "fee": "£65.5M"
+    },
+    {
+      "name": "Morton",
+      "dir": "out",
+      "fee": "£10M"
+    },
+    {
+      "name": "Nunez",
+      "dir": "out",
+      "fee": "£46M"
+    }
+  ],
+  "42": [
+    {
+      "name": "Kepa",
+      "dir": "in",
+      "fee": "£5M"
+    },
+    {
+      "name": "Zubimendi",
+      "dir": "in",
+      "fee": "£60M"
+    },
+    {
+      "name": "Nørgaard",
+      "dir": "in",
+      "fee": "£12M"
+    },
+    {
+      "name": "Mosquera",
+      "dir": "in",
+      "fee": "£17M"
+    },
+    {
+      "name": "Gyokeres",
+      "dir": "in",
+      "fee": "£64M"
+    },
+    {
+      "name": "Madueke",
+      "dir": "in",
+      "fee": "£52M"
+    },
+    {
+      "name": "Eze",
+      "dir": "in",
+      "fee": "£60M"
+    },
+    {
+      "name": "Hincapie",
+      "dir": "in",
+      "fee": "£34.4M"
+    },
+    {
+      "name": "Dixon",
+      "dir": "in",
+      "fee": "£0.5M"
+    },
+    {
+      "name": "Mooney",
+      "dir": "in",
+      "fee": "£0.4M"
+    },
+    {
+      "name": "Tzolis",
+      "dir": "in",
+      "fee": "£34.4M"
+    },
+    {
+      "name": "Tavares",
+      "dir": "out",
+      "fee": "£4.3M"
+    },
+    {
+      "name": "Marquinhos",
+      "dir": "out",
+      "fee": "£2.5M"
+    },
+    {
+      "name": "Trossard",
+      "dir": "out",
+      "fee": "£15.5M"
+    },
+    {
+      "name": "Hein",
+      "dir": "out",
+      "fee": "£2.6M"
+    }
+  ],
+  "47": [
+    {
+      "name": "Tonali",
+      "dir": "in",
+      "fee": "£92.9M"
+    },
+    {
+      "name": "Fernandes",
+      "dir": "in",
+      "fee": "£85.1M"
+    },
+    {
+      "name": "van Hecke",
+      "dir": "in",
+      "fee": "£51.6M"
+    },
+    {
+      "name": "Lankshear",
+      "dir": "out",
+      "fee": "£10.1M"
+    },
+    {
+      "name": "Vuskovic",
+      "dir": "out",
+      "fee": "£46.4M"
+    },
+    {
+      "name": "Devine",
+      "dir": "out",
+      "fee": "£6.1M"
+    },
+    {
+      "name": "Veliz",
+      "dir": "out",
+      "fee": "£7.7M"
+    }
+  ],
+  "49": [
+    {
+      "name": "Essugo",
+      "dir": "in",
+      "fee": "£18.5M"
+    },
+    {
+      "name": "Delap",
+      "dir": "in",
+      "fee": "£30M"
+    },
+    {
+      "name": "Garnacho",
+      "dir": "in",
+      "fee": "£40M"
+    },
+    {
+      "name": "Barco",
+      "dir": "in",
+      "fee": "£34.4M"
+    },
+    {
+      "name": "Welbeck",
+      "dir": "in",
+      "fee": "£5M"
+    },
+    {
+      "name": "Lacroix",
+      "dir": "in",
+      "fee": "£52.2M"
+    },
+    {
+      "name": "Rogers",
+      "dir": "in",
+      "fee": "£118.7M"
+    },
+    {
+      "name": "Satpaev",
+      "dir": "in",
+      "fee": "£2.1M"
+    },
+    {
+      "name": "Palestra",
+      "dir": "in",
+      "fee": "£49M"
+    },
+    {
+      "name": "Quenda",
+      "dir": "in",
+      "fee": "£43.7M"
+    },
+    {
+      "name": "Broja",
+      "dir": "out",
+      "fee": "£20M"
+    },
+    {
+      "name": "Kepa",
+      "dir": "out",
+      "fee": "£5M"
+    },
+    {
+      "name": "Madueke",
+      "dir": "out",
+      "fee": "£52M"
+    },
+    {
+      "name": "Santos",
+      "dir": "out",
+      "fee": "£48.4M"
+    },
+    {
+      "name": "George",
+      "dir": "out",
+      "fee": "£18.1M"
+    },
+    {
+      "name": "Cucurella",
+      "dir": "out",
+      "fee": "£47.3M"
+    }
+  ],
+  "50": [
+    {
+      "name": "Semenyo",
+      "dir": "in",
+      "fee": "£62.5M"
+    },
+    {
+      "name": "Reijnders",
+      "dir": "in",
+      "fee": "£46M"
+    },
+    {
+      "name": "Cherki",
+      "dir": "in",
+      "fee": "£31M"
+    },
+    {
+      "name": "Ait-Nouri",
+      "dir": "in",
+      "fee": "£31M"
+    },
+    {
+      "name": "Nypan",
+      "dir": "in",
+      "fee": "£12.5M"
+    },
+    {
+      "name": "Monga",
+      "dir": "in",
+      "fee": "£10.1M"
+    },
+    {
+      "name": "Charles",
+      "dir": "in",
+      "fee": "£3M"
+    },
+    {
+      "name": "Anderson",
+      "dir": "in",
+      "fee": "£116.1M"
+    },
+    {
+      "name": "Wright",
+      "dir": "out",
+      "fee": "£2.3M"
+    },
+    {
+      "name": "Perrone",
+      "dir": "out",
+      "fee": "£13M"
+    },
+    {
+      "name": "Akanji",
+      "dir": "out",
+      "fee": "£12.9M"
+    },
+    {
+      "name": "Ake",
+      "dir": "out",
+      "fee": "£7M"
+    }
+  ]
+}
