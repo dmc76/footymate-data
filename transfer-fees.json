@@ -972,6 +972,44 @@
       "fee": "£18M"
     }
   ],
+  "157": [
+    {
+      "name": "Nkili",
+      "dir": "out",
+      "fee": "£10.3M"
+    },
+    {
+      "name": "Saibari",
+      "dir": "in",
+      "fee": "£45M"
+    }
+  ],
+  "168": [
+    {
+      "name": "Moreira",
+      "dir": "in",
+      "fee": "£27.5M"
+    },
+    {
+      "name": "Eichhorn",
+      "dir": "in",
+      "fee": "£7.7M"
+    }
+  ],
+  "169": [
+    {
+      "name": "Nkili",
+      "dir": "in",
+      "fee": "£10.3M"
+    }
+  ],
+  "172": [
+    {
+      "name": "Sauer",
+      "dir": "in",
+      "fee": "£13M"
+    }
+  ],
   "247": [
     {
       "name": "Høgh",
