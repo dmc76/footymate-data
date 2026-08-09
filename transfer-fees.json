@@ -982,6 +982,18 @@
       "name": "Saibari",
       "dir": "in",
       "fee": "£45M"
+    },
+    {
+      "name": "Brown",
+      "dir": "in",
+      "fee": "£47.3M"
+    }
+  ],
+  "165": [
+    {
+      "name": "Diomande",
+      "dir": "out",
+      "fee": "£120M"
     }
   ],
   "168": [
@@ -1001,6 +1013,11 @@
       "name": "Nkili",
       "dir": "in",
       "fee": "£10.3M"
+    },
+    {
+      "name": "Brown",
+      "dir": "out",
+      "fee": "£47.3M"
     }
   ],
   "172": [
@@ -1008,6 +1025,13 @@
       "name": "Sauer",
       "dir": "in",
       "fee": "£13M"
+    }
+  ],
+  "173": [
+    {
+      "name": "Esteve",
+      "dir": "in",
+      "fee": "£21.25M"
     }
   ],
   "247": [
