@@ -922,6 +922,30 @@
       "fee": "£0.85M"
     }
   ],
+  "247": [
+    {
+      "name": "Høgh",
+      "dir": "in",
+      "fee": "£11M"
+    },
+    {
+      "name": "Duran",
+      "dir": "in",
+      "fee": "£5M"
+    }
+  ],
+  "257": [
+    {
+      "name": "Dragojevic",
+      "dir": "in",
+      "fee": "£4M"
+    },
+    {
+      "name": "McCrorie",
+      "dir": "in",
+      "fee": "£1M"
+    }
+  ],
   "1355": [
     {
       "name": "Shein",
