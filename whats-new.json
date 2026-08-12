@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-08-12",
+    "title": "Managers",
+    "desc": "Managers have now been added with a win percentage, I am aware of some issues over the info for some managers being presented, looking to fix this over the next few days. If there are any outside of the Premier League you notice, please fill in the feedback form to let me know."
+  },
+  {
     "date": "2026-08-09",
     "title": "Transfers Added",
     "desc": "As much detail over transfers and fees have been added as much as possible across all leagues covered. Hopefully your team is included"
