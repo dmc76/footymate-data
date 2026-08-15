@@ -1,0 +1,634 @@
+{
+  "116": {
+    "name": "Dino Toppmöller",
+    "since": "2026-08-01"
+  },
+  "1333": {
+    "name": "Johnnie Jackson",
+    "since": "2022-07-01"
+  },
+  "1334": {
+    "name": "Steve Evans",
+    "since": "2026-01-01"
+  },
+  "1335": {
+    "name": "Nathan Jones",
+    "since": "2024-03-01"
+  },
+  "1336": {
+    "name": "Matt Lawlor",
+    "since": "2026-04-01"
+  },
+  "1337": {
+    "name": "Chris Hogg",
+    "since": "2026-08-01"
+  },
+  "1338": {
+    "name": "Aaron Ramsey",
+    "since": "2026-06-01"
+  },
+  "1339": {
+    "name": "Ian Watson",
+    "since": "2026-06-01"
+  },
+  "1341": {
+    "name": "Kieron Dyer",
+    "since": "2026-06-01"
+  },
+  "1342": {
+    "name": "Lee Grant",
+    "since": "2026-07-01"
+  },
+  "1345": {
+    "name": "Paul Cook",
+    "since": "2022-04-01"
+  },
+  "1346": {
+    "name": "Frank Lampard",
+    "since": "2024-11-01"
+  },
+  "1347": {
+    "name": "Gareth Ainsworth",
+    "since": "2025-05-01"
+  },
+  "1348": {
+    "name": "Paul Warne",
+    "since": "2025-07-01"
+  },
+  "1349": {
+    "name": "Micky Mellon",
+    "since": "2023-11-01"
+  },
+  "1350": {
+    "name": "Luke Williams",
+    "since": "2026-07-01"
+  },
+  "1351": {
+    "name": "Jon Brady",
+    "since": "2026-02-01"
+  },
+  "1352": {
+    "name": "Gavin Cowan",
+    "since": "2026-03-01"
+  },
+  "1353": {
+    "name": "Ian Holloway",
+    "since": "2024-12-01"
+  },
+  "1354": {
+    "name": "Grant McCann",
+    "since": "2025-01-01"
+  },
+  "1355": {
+    "name": "John Mousinho",
+    "since": "2023-01-01"
+  },
+  "1356": {
+    "name": "Ian Evatt",
+    "since": "2024-02-01"
+  },
+  "1357": {
+    "name": "Tom Cleverley",
+    "since": "2026-07-01"
+  },
+  "1358": {
+    "name": "Michael Duff",
+    "since": "2025-06-01"
+  },
+  "1359": {
+    "name": "Jack Wilshere",
+    "since": "2026-01-01"
+  },
+  "1360": {
+    "name": "John Doolan",
+    "since": "2024-04-01"
+  },
+  "1361": {
+    "name": "Danny Cowley",
+    "since": "2024-02-01"
+  },
+  "1362": {
+    "name": "Colin Kazim-Richards",
+    "since": "2026-05-01"
+  },
+  "1363": {
+    "name": "Lee Bell",
+    "since": "2023-01-01"
+  },
+  "1364": {
+    "name": "Matt Taylor",
+    "since": "2026-08-01"
+  },
+  "1365": {
+    "name": "David Artell",
+    "since": "2024-01-01"
+  },
+  "1366": {
+    "name": "Lee Clark",
+    "since": "2026-05-01"
+  },
+  "1367": {
+    "name": "Chris Todd",
+    "since": "2026-08-01"
+  },
+  "1368": {
+    "name": "Alex Revell",
+    "since": "2024-06-01"
+  },
+  "1370": {
+    "name": "Neil Harris",
+    "since": "2025-04-01"
+  },
+  "1372": {
+    "name": "Steve Cotterill",
+    "since": "2025-11-01"
+  },
+  "1373": {
+    "name": "Richie Wellens",
+    "since": "2022-11-01"
+  },
+  "1374": {
+    "name": "Nigel Clough",
+    "since": "2020-12-01"
+  },
+  "1375": {
+    "name": "Adam Lakeland",
+    "since": "2026-04-01"
+  },
+  "1376": {
+    "name": "Martin Paterson",
+    "since": "2025-06-01"
+  },
+  "1379": {
+    "name": "Chris Cohen",
+    "since": "2026-07-01"
+  },
+  "1381": {
+    "name": "Darrell Clarke",
+    "since": "2026-07-01"
+  },
+  "1386": {
+    "name": "Jim Goodwin",
+    "since": "2023-03-01"
+  },
+  "1389": {
+    "name": "John McGlynn",
+    "since": "2022-06-01"
+  },
+  "157": {
+    "name": "Vincent Kompany",
+    "since": "2024-07-01"
+  },
+  "160": {
+    "name": "Julian Schuster",
+    "since": "2024-07-01"
+  },
+  "161": {
+    "name": "Tobias Strobl",
+    "since": "2026-06-01"
+  },
+  "165": {
+    "name": "Niko Kovač",
+    "since": "2025-01-01"
+  },
+  "168": {
+    "name": "Carles Martínez Novell",
+    "since": "2026-06-01"
+  },
+  "169": {
+    "name": "Adi Hütter",
+    "since": "2026-07-01"
+  },
+  "172": {
+    "name": "Sebastian Hoeneß",
+    "since": "2023-04-01"
+  },
+  "173": {
+    "name": "Martín Demichelis",
+    "since": "2026-06-01"
+  },
+  "1818": {
+    "name": "Scott Davies",
+    "since": "2026-04-01"
+  },
+  "1819": {
+    "name": "Adam Murray",
+    "since": "2026-05-01"
+  },
+  "18193": {
+    "name": "Graham Alexander",
+    "since": "2024-01-01"
+  },
+  "1822": {
+    "name": "Matt Gray",
+    "since": "2026-05-01"
+  },
+  "1823": {
+    "name": "Lee Cattermole",
+    "since": "2026-06-01"
+  },
+  "1832": {
+    "name": "Andy Woodman",
+    "since": "2020-12-01"
+  },
+  "1834": {
+    "name": "Chris Millington",
+    "since": "2025-10-01"
+  },
+  "1835": {
+    "name": "Chris Agutter",
+    "since": "2025-10-01"
+  },
+  "1836": {
+    "name": "Jake Hyde & Craig Ross",
+    "since": "2026-06-01"
+  },
+  "1837": {
+    "name": "Phil Parkinson",
+    "since": "2021-07-01"
+  },
+  "1839": {
+    "name": "Kevin Phillips",
+    "since": "2026-07-01"
+  },
+  "1841": {
+    "name": "John McGrath",
+    "since": "2026-05-01"
+  },
+  "1842": {
+    "name": "Simon Weaver",
+    "since": "2009-05-01"
+  },
+  "1844": {
+    "name": "Peter Cklamovski",
+    "since": "2026-07-01"
+  },
+  "194": {
+    "name": "Míchel",
+    "since": "2026-08-01"
+  },
+  "197": {
+    "name": "Peter Bosz",
+    "since": "2023-08-01"
+  },
+  "201": {
+    "name": "Lee-Roy Echteld",
+    "since": "2026-01-01"
+  },
+  "202": {
+    "name": "Dick Lukkien",
+    "since": "2023-08-01"
+  },
+  "207": {
+    "name": "John van den Brom",
+    "since": "2025-10-01"
+  },
+  "209": {
+    "name": "Giovanni van Bronckhorst",
+    "since": "2026-08-01"
+  },
+  "210": {
+    "name": "Robin Veldman",
+    "since": "2025-04-01"
+  },
+  "247": {
+    "name": "Martin O'Neill",
+    "since": "2026-06-01"
+  },
+  "249": {
+    "name": "David Gray",
+    "since": "2024-07-01"
+  },
+  "250": {
+    "name": "Neil McCann",
+    "since": "2026-03-01"
+  },
+  "251": {
+    "name": "Craig McLeish",
+    "since": "2026-06-01"
+  },
+  "252": {
+    "name": "Stephen Robinson",
+    "since": "2026-03-01"
+  },
+  "253": {
+    "name": "Steven Pressley",
+    "since": "2025-06-01"
+  },
+  "254": {
+    "name": "Wouter Vrancken",
+    "since": "2026-08-01"
+  },
+  "256": {
+    "name": "Alfred Johansson",
+    "since": "2026-06-01"
+  },
+  "257": {
+    "name": "Derek McInnes",
+    "since": "2026-06-01"
+  },
+  "258": {
+    "name": "Simo Valakari",
+    "since": "2024-11-01"
+  },
+  "33": {
+    "name": "Michael Carrick",
+    "since": "2026-01-01"
+  },
+  "34": {
+    "name": "Mattias Jaissle",
+    "since": "2026-06-01"
+  },
+  "35": {
+    "name": "Marco Rose",
+    "since": "2026-07-01"
+  },
+  "36": {
+    "name": "Alvaro Arbeloa",
+    "since": "2026-07-01"
+  },
+  "37": {
+    "name": "Martin Drury",
+    "since": "2026-05-01"
+  },
+  "38": {
+    "name": "Alessio Dionisi",
+    "since": "2026-07-01"
+  },
+  "40": {
+    "name": "Andoni Iraola",
+    "since": "2026-06-01"
+  },
+  "415": {
+    "name": "John Stegeman",
+    "since": "2025-08-01"
+  },
+  "42": {
+    "name": "Mikel Arteta",
+    "since": "2019-12-01"
+  },
+  "43": {
+    "name": "Brian Barry-Murphy",
+    "since": "2025-05-01"
+  },
+  "44": {
+    "name": "Mike Jackson",
+    "since": "2026-06-01"
+  },
+  "45": {
+    "name": "David Moyes",
+    "since": "2025-01-01"
+  },
+  "4686": {
+    "name": "Jimmy McNulty",
+    "since": "2026-06-01"
+  },
+  "4695": {
+    "name": "Paul Wotton",
+    "since": "2026-05-01"
+  },
+  "47": {
+    "name": "Roberto De Zerbi",
+    "since": "2026-03-01"
+  },
+  "4700": {
+    "name": "Neil Gibson",
+    "since": "2025-11-01"
+  },
+  "48": {
+    "name": "Nuno Espírito Santo",
+    "since": "2025-10-01"
+  },
+  "487": {
+    "name": "Gennaro Gattuso",
+    "since": "2026-06-01"
+  },
+  "489": {
+    "name": "Rúben Amorim",
+    "since": "2026-06-01"
+  },
+  "49": {
+    "name": "Xabi Alonso",
+    "since": "2026-07-01"
+  },
+  "492": {
+    "name": "Massimiliano Allegri",
+    "since": "2026-07-01"
+  },
+  "496": {
+    "name": "Luciano Spalletti",
+    "since": "2025-10-01"
+  },
+  "497": {
+    "name": "Gian Piero Gasperini",
+    "since": "2025-06-01"
+  },
+  "499": {
+    "name": "Maurizio Sarri",
+    "since": "2026-06-01"
+  },
+  "50": {
+    "name": "Enzo Maresca",
+    "since": "2026-06-01"
+  },
+  "502": {
+    "name": "Fabio Grosso",
+    "since": "2026-06-01"
+  },
+  "505": {
+    "name": "Cristian Chivu",
+    "since": "2025-07-01"
+  },
+  "51": {
+    "name": "Fabian Hurzeler",
+    "since": "2024-06-01"
+  },
+  "52": {
+    "name": "Pierre Sage",
+    "since": "2026-06-01"
+  },
+  "529": {
+    "name": "Hansi Flick",
+    "since": "2024-07-01"
+  },
+  "53": {
+    "name": "Leam Richardson",
+    "since": "2026-04-01"
+  },
+  "530": {
+    "name": "Diego Simeone",
+    "since": "2011-12-01"
+  },
+  "531": {
+    "name": "Edin Terzić",
+    "since": "2026-05-01"
+  },
+  "532": {
+    "name": "Carlos Corberán",
+    "since": "2024-12-01"
+  },
+  "533": {
+    "name": "Marcelino",
+    "since": "2023-07-01"
+  },
+  "536": {
+    "name": "Luis García",
+    "since": "2026-03-01"
+  },
+  "54": {
+    "name": "Chris Davies",
+    "since": "2024-07-01"
+  },
+  "540": {
+    "name": "Manolo González",
+    "since": "2024-03-01"
+  },
+  "541": {
+    "name": "José Mourinho",
+    "since": "2026-07-01"
+  },
+  "543": {
+    "name": "Manuel Pellegrini",
+    "since": "2020-07-01"
+  },
+  "55": {
+    "name": "Keith Andrews",
+    "since": "2025-06-01"
+  },
+  "56": {
+    "name": "Michael Skubala",
+    "since": "2026-05-01"
+  },
+  "57": {
+    "name": "Gary O'Neil",
+    "since": "2026-06-01"
+  },
+  "58": {
+    "name": "Alex Neil",
+    "since": "2025-02-01"
+  },
+  "59": {
+    "name": "Paul Heckingbottom",
+    "since": "2024-09-01"
+  },
+  "60": {
+    "name": "James Morrison",
+    "since": "2026-06-01"
+  },
+  "61": {
+    "name": "Gary Caldwell",
+    "since": "2025-06-01"
+  },
+  "62": {
+    "name": "Chris Wilder",
+    "since": "2025-11-01"
+  },
+  "63": {
+    "name": "Daniel Farke",
+    "since": "2023-07-01"
+  },
+  "64": {
+    "name": "Sergej Jakirovic",
+    "since": "2025-06-01"
+  },
+  "65": {
+    "name": "Oliver Glasner",
+    "since": "2026-07-01"
+  },
+  "66": {
+    "name": "Unai Emery",
+    "since": "2022-11-01"
+  },
+  "67": {
+    "name": "Tony Mowbray",
+    "since": "2026-08-01"
+  },
+  "69": {
+    "name": "John Eustace",
+    "since": "2024-02-01"
+  },
+  "70": {
+    "name": "Kim Hellberg",
+    "since": "2026-06-01"
+  },
+  "71": {
+    "name": "Philippe Clement",
+    "since": "2025-12-01"
+  },
+  "72": {
+    "name": "Julien Stéphan",
+    "since": "2025-07-01"
+  },
+  "727": {
+    "name": "Luis Miguel Ramis",
+    "since": "2026-06-01"
+  },
+  "73": {
+    "name": "Alex Bruce",
+    "since": "2026-08-01"
+  },
+  "74": {
+    "name": "Henrik Pedersen",
+    "since": "2026-07-01"
+  },
+  "746": {
+    "name": "Regis Le Bris",
+    "since": "2024-07-01"
+  },
+  "747": {
+    "name": "Daniel Stendel",
+    "since": "2026-05-01"
+  },
+  "748": {
+    "name": "Gary Bowyer",
+    "since": "2025-02-01"
+  },
+  "75": {
+    "name": "Mark Robins",
+    "since": "2025-05-01"
+  },
+  "76": {
+    "name": "Vítor Matos",
+    "since": "2026-01-01"
+  },
+  "7752": {
+    "name": "Andy Peaks",
+    "since": "2022-02-01"
+  },
+  "79": {
+    "name": "Davide Ancelotti",
+    "since": "2026-08-01"
+  },
+  "80": {
+    "name": "Paulo Fonseca",
+    "since": "2025-01-01"
+  },
+  "81": {
+    "name": "Bruno Genesio",
+    "since": "2026-08-01"
+  },
+  "8146": {
+    "name": "Paul Hurst",
+    "since": "2026-01-01"
+  },
+  "84": {
+    "name": "Olivier Pantaloni",
+    "since": "2026-08-01"
+  },
+  "85": {
+    "name": "Luis Enrique",
+    "since": "2023-07-01"
+  },
+  "8663": {
+    "name": "Gary Waddock",
+    "since": "2026-02-01"
+  },
+  "91": {
+    "name": "Filipe Luís",
+    "since": "2026-08-01"
+  },
+  "94": {
+    "name": "Franck Haise",
+    "since": "2026-03-01"
+  }
+}
