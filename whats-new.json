@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-08-24",
+    "title": "Match Highlights",
+    "desc": "Finished matches now show a YouTube icon and a 'Watch highlights' link when one's available — currently covers Premier League, Carabao Cup, Champions League, Europa League and Conference League. FA Cup isn't included since coverage is split between broadcasters. Still bedding in, especially for the European competitions, so a few matches might not pick up their clip right away — let me know via the feedback form if one's clearly missing."
+  },
+  {
     "date": "2026-08-12",
     "title": "Managers",
     "desc": "Managers have now been added with a win percentage, I am aware of some issues over the info for some managers being presented, looking to fix this over the next few days. If there are any outside of the Premier League you notice, please fill in the feedback form to let me know."
