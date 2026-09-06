@@ -350,6 +350,11 @@
       "name": "Nørgaard",
       "dir": "out",
       "fee": "£7.1M"
+    },
+    {
+      "name": "Bruno Guimaraes",
+      "dir": "in",
+      "fee": "£75m"
     }
   ],
   "43": [
@@ -443,6 +448,16 @@
       "name": "Veliz",
       "dir": "out",
       "fee": "£7.7M"
+    },
+    {
+      "name": "Mateus Fernandes",
+      "dir": "in",
+      "fee": "£85m"
+    },
+    {
+      "name": "Savinho",
+      "dir": "in",
+      "fee": "£85m"
     }
   ],
   "48": [
@@ -542,6 +557,11 @@
       "name": "Cucurella",
       "dir": "out",
       "fee": "£47.3M"
+    },
+    {
+      "name": "Enzo Fernandez",
+      "dir": "out",
+      "fee": "£125m"
     }
   ],
   "50": [
@@ -604,6 +624,26 @@
       "name": "Ake",
       "dir": "out",
       "fee": "£7M"
+    },
+    {
+      "name": "Ayoub Bouaddi",
+      "dir": "in",
+      "fee": "£86m"
+    },
+    {
+      "name": "Enzo Fernandez",
+      "dir": "in",
+      "fee": "£125m"
+    },
+    {
+      "name": "Elliot Anderson",
+      "dir": "in",
+      "fee": "£116m"
+    },
+    {
+      "name": "Savinho",
+      "dir": "out",
+      "fee": "£85m"
     }
   ],
   "51": [
