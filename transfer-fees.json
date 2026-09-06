@@ -1091,6 +1091,41 @@
       "name": "Duran",
       "dir": "in",
       "fee": "£5M"
+    },
+    {
+      "name": "Joel van den Berg",
+      "dir": "in",
+      "fee": "£3.4m"
+    },
+    {
+      "name": "Jordan Lotomba",
+      "dir": "in",
+      "fee": "Loan"
+    },
+    {
+      "name": "Sam Johnstone",
+      "dir": "in",
+      "fee": "Loan"
+    },
+    {
+      "name": "Landon Emenalo",
+      "dir": "in",
+      "fee": "Loan"
+    },
+    {
+      "name": "Shim Mheuka",
+      "dir": "in",
+      "fee": "Loan"
+    },
+    {
+      "name": "Oliver Sorensen",
+      "dir": "in",
+      "fee": "Loan"
+    },
+    {
+      "name": "Luis Palma",
+      "dir": "out",
+      "fee": "£3.5m"
     }
   ],
   "257": [
@@ -1103,6 +1138,11 @@
       "name": "McCrorie",
       "dir": "in",
       "fee": "£1M"
+    },
+    {
+      "name": "Kevin Kelsy",
+      "dir": "in",
+      "fee": "£9m"
     }
   ],
   "489": [
