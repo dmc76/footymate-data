@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-10-17",
+    "title": "Calendar Integration",
+    "desc": "Under your team page, you can now add your team's fixture to either your Google, Apple or Outlook calendars. This will show the fixture, whether it's home or away, the name of the venue and will block out 2 hours in your calendar. It will also update to show the result once the fixture has passed. If the game is on TV and that has been updated in the app, then this will also show in the calendar entry."
+  },
+  {
     "date": "2026-08-28",
     "title": "More leagues added to highlights",
     "desc": "La Liga, Scottish Premiership and Scottish Cup also now added to highlights. With regards to highlights as a whole, if the link doesn't appear then it's unlikely there are highlights available, which will be the same for some games. If you know it's available and it's not there, please send feedback through the settings in the app."
